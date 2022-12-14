@@ -1,0 +1,206 @@
+@media(max-width:1199px) {
+
+    .whatwedo {
+        padding: 80px 0px;
+    }
+
+    .whatwedo .title h2 {
+        width: 40%;
+    }
+
+    .prj-gallary .title h2 {
+        width: 50%;
+    }
+
+    .subscribe-banner .title h2 {
+        width: 60%;
+    }
+
+    .partener .title h2 {
+        width: 50%;
+    }
+
+
+}
+
+@media(max-width:991px) {
+    .spacing-top {
+        margin-top: 80px;
+    }
+
+    .banner-content .display-3 {
+        width: 100% !important;
+    }
+
+    .banner-png {
+        height: 50%;
+    }
+
+    .whatwedo {
+        padding: 70px 0px;
+    }
+
+    .whatwedo .title h2 {
+        width: 50%;
+    }
+
+    .whatwedo .container .card .gls-morphism {
+        width: 60px;
+        height: 60px;
+    }
+
+    .our-features .title h2 {
+        width: 50%;
+    }
+
+    .video-banner {
+        padding: 140px 0;
+    }
+
+    .testimonial .title h2 {
+        width: 63%;
+    }
+
+    .pricing .title p {
+        width: 80%;
+    }
+
+    .partener .title h2 {
+        width: 60%;
+    }
+
+    .partner-box {
+        width: 25%;
+    }
+
+    .subscribe-aboutus .subscribe-form {
+        width: 100%;
+    }
+
+    .service-1 .ser-1-row {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .mid-service .title p,
+    .all-projects .title p,
+    .faq .title p {
+        width: 70%;
+    }
+
+
+}
+
+@media(max-width:767px) {
+    .spacing-top {
+        margin-top: 60px;
+    }
+
+    .whatwedo {
+        padding: 40px 0px;
+    }
+
+    .whatwedo .title h2 {
+        width: 80%;
+    }
+
+    .our-features .title h2 {
+        width: 100%;
+    }
+
+    .team .title h2 {
+        width: 100%;
+    }
+
+    .video-banner {
+        padding: 135px 0;
+    }
+
+    .testimonial .title h2 {
+        width: 70%;
+    }
+
+    .subscribe-form {
+        width: 70%;
+    }
+
+    .subscribe-banner .title h2,
+    .partener .title h2,
+    .all-projects .title p,
+    .faq .title p {
+        width: 80%;
+    }
+
+    .partner-box {
+        width: 33.33%;
+    }
+
+
+
+}
+
+@media(max-width:576px) {
+    .spacing-top {
+        margin-top: 40px;
+    }
+
+    .testimonial {
+        top: 0px;
+    }
+
+
+    .spacing-topmax {
+        margin-top: 10%;
+    }
+
+    .testimonial-content {
+        position: static;
+    }
+
+    .banner {
+        height: 60vh;
+    }
+
+    .banner-content .display-3 {
+        font-size: 22px;
+        width: 100% !important;
+    }
+
+    .btn {
+        font-size: 14px;
+    }
+
+    .whatwedo .container .card .gls-morphism {
+        width: 50px;
+        height: 50px;
+    }
+
+    .whatwedo .container .card a {
+        opacity: 1;
+        bottom: 10px;
+    }
+
+    .testimonial {
+        padding: 50px 0 100px 0;
+    }
+
+    .testimonial .title h2 {
+        width: 100%;
+    }
+
+    .pricing .title p,
+    .partener .title h2 {
+        width: 100%;
+    }
+
+    .partner-box {
+        width: 50%;
+    }
+
+    .mid-service .title p,
+    .all-projects .title p,
+    .faq .title p {
+        width: 100%;
+    }
+
+}
